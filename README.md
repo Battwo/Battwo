@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alexanny!</h1>
+<h3 align="center">A passionate frontend developer student from New York who is currently studying under Mr. forlenza</h3>
 
-<!--
-**Battwo/Battwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **more about Frontend Development and I hope to be better in this subject**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1kw_jvkv2yofWd0PUGL57kCLsof6rJum_?usp=drive_link](https://drive.google.com/drive/folders/1kw_jvkv2yofWd0PUGL57kCLsof6rJum_?usp=drive_link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **ANunez2@brooklynsteamcenter.org**
+
+- ⚡ Fun fact **Im really into art and story telling**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/hehe who knows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hehe who knows" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hehe who knows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hehe who knows" height="30" width="40" /></a>
+</p>
+
